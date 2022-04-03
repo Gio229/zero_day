@@ -1,1 +1,1 @@
-checking uname command
+Checking uname command.
